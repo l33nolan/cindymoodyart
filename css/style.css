@@ -509,6 +509,12 @@ form {
     font-size: 13px;
 }
 
+#thanks {
+    height: 1000px;
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+}
 
 
 /*--------------------

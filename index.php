@@ -227,51 +227,11 @@
     </div>
 </section>
 
-<section id="contact">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <div class="section-title">
-                    <h2>Contact Me</h2>
-                    <p>I would love to hear from anybody regarding my artwork. If you have any feedback, questions, or
-                        might be interested in buying a painting, please get in touch!</p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <form name="sendMessage" id="contactForm" action="form.php" method="post">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <input name="name" type="text" class="form-control" placeholder="Your Name *" id="name" required>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <input name="email" type="email" class="form-control" placeholder="Your Email *" id="email" required>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="form-group">
-                                <textarea name="message" class="form-control" placeholder="Your Message *" id="message" required></textarea>
-                            </div>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-12 text-center">
-                            <div id="success"></div>
-                            <button id= "send_email" type="submit" class="btn">Send Message</button>
-                        </div>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-</section>
+    <?php
+
+    include 'form.php';
+
+    ?>
 
 <p id="back-top">
     <a href="#top"><i class="fa fa-angle-up"></i></a>
