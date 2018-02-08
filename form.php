@@ -9,9 +9,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = trim(filter_input(INPUT_POST, "email", FILTER_SANITIZE_EMAIL));
     $message = trim(filter_input(INPUT_POST, "message", FILTER_SANITIZE_SPECIAL_CHARS));
 
-    $emailBody = "bananas apples and pears oh my";
+    $emailBody = "From: " . $name . "\n" . "EMail: " . $email . "\n" . "Message: " . $message;
 
-    $from = new SendGrid\Email(null, "test@example.com");
+    $from = new SendGrid\Email(null, "Cindy Moody Art Website");
     $subject = "Cindy, you have a new artwork enquiry!";
     $to = new SendGrid\Email(null, "leenolan79@icloud.com");
     $content = new SendGrid\Content("text/plain", $emailBody);
