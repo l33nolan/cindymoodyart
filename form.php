@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = trim(filter_input(INPUT_POST, "email", FILTER_SANITIZE_EMAIL));
     $message = trim(filter_input(INPUT_POST, "message", FILTER_SANITIZE_SPECIAL_CHARS));
 
-    $emailBody = "From: " . $name . "<br>" . "EMail: " . $email . "<br>" . "Message: " . $message;
+    $emailBody = "From: " . $name . " \n" . "EMail: " . $email . " \n" . "Message: " . $message;
 
     $from = new SendGrid\Email("Cindy Moody Art Website","leenolan@icloud.com");
     $subject = "Cindy, you have a new artwork enquiry!";
@@ -26,7 +26,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo $response->headers();
     echo $response->body();
 
-    header("Location: thanks.html");
+    header("Location: thanks.php");
 
 }
 
