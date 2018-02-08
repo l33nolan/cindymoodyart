@@ -1,39 +1,31 @@
 <?php
 
-use PHPMailer\PHPMailer\PHPMailer;
-
 require 'vendor/autoload.php';
 
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
+
     $name = trim(filter_input(INPUT_POST, "name", FILTER_SANITIZE_STRING));
     $email = trim(filter_input(INPUT_POST, "email", FILTER_SANITIZE_EMAIL));
     $message = trim(filter_input(INPUT_POST, "message", FILTER_SANITIZE_SPECIAL_CHARS));
 
+    $from = new SendGrid\Email(null, "test@example.com");
+    $subject = "Hello World from the SendGrid PHP Library!";
+    $to = new SendGrid\Email(null, "leenolan79@icloud.com");
+    $content = new SendGrid\Content("text/plain", "Hello, Email!");
+    $mail = new SendGrid\Mail($from, $subject, $to, $content);
 
-    $mail = new PHPMailer(true);
+    $apiKey = getenv('SENDGRID_API_KEY');
+    $sg = new \SendGrid($apiKey);
 
+    $response = $sg->client->mail()->send()->post($mail);
+    echo $response->statusCode();
+    echo $response->headers();
+    echo $response->body();
 
-
-        $email_body = "";
-        $email_body .= "Name " . $name . "\n";
-        $email_body .= "Email " . $email . "\n";
-        $email_body .= "Details " . $message . "\n";
-
-        $mail->setFrom($email, $name);
-        $mail->addAddress('leenolan79@icloud.com', 'Lee Nolan');     // Add a recipient
-
-        $mail->isHTML(false);                                  // Set email format to HTML
-
-        $mail->Subject = 'New Website Enquiry From ' . $name;
-        $mail->Body = $email_body;
-
-
-        if ($mail->send()) {
-            header("Location:thanks.php");
-        }
 
 }
+
 ?>
 
 <section id="contact">
