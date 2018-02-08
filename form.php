@@ -11,7 +11,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $emailBody = "From: " . $name . "\n" . "EMail: " . $email . "\n" . "Message: " . $message;
 
-    $from = new SendGrid\Email(null, "Cindy Moody Art Website");
+    $from = new SendGrid\Email("Cindy Moody Art Website","leenolan@icloud.com");
     $subject = "Cindy, you have a new artwork enquiry!";
     $to = new SendGrid\Email(null, "leenolan79@icloud.com");
     $content = new SendGrid\Content("text/plain", $emailBody);
