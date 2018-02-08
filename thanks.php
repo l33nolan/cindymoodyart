@@ -65,7 +65,7 @@
 
     <section id="thanks">
         <div>
-            <p>Thanks for getting in touch! I will be in touch as soon as I can!</p>
+            <p>Thanks for your enquiry! I will be in touch as soon as I can!</p>
             <p>Please wait while we redirect you to the site...</p>
         </div>
     </section>
@@ -82,7 +82,7 @@
         // Handler for .ready() called.
         window.setTimeout(function () {
             location.href = "index.php";
-        }, 3000);
+        }, 4000);
     });
 </script>
 

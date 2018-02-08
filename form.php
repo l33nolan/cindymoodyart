@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $from = new SendGrid\Email("Cindy Moody Art Website","leenolan@icloud.com");
     $subject = "Cindy, you have a new artwork enquiry!";
     $to = new SendGrid\Email(null, "leenolan79@icloud.com");
-    $content = new SendGrid\Content("html", $emailBody);
+    $content = new SendGrid\Content("text/html", $emailBody);
     $mail = new SendGrid\Mail($from, $subject, $to, $content);
 
     $apiKey = getenv('SENDGRID_API_KEY');
