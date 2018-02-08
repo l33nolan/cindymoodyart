@@ -9,10 +9,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = trim(filter_input(INPUT_POST, "email", FILTER_SANITIZE_EMAIL));
     $message = trim(filter_input(INPUT_POST, "message", FILTER_SANITIZE_SPECIAL_CHARS));
 
+    $emailBody = "bananas apples and pears oh my";
+
     $from = new SendGrid\Email(null, "test@example.com");
-    $subject = "Hello World from the SendGrid PHP Library!";
+    $subject = "Cindy, you have a new artwork enquiry!";
     $to = new SendGrid\Email(null, "leenolan79@icloud.com");
-    $content = new SendGrid\Content("text/plain", "Hello, Email!");
+    $content = new SendGrid\Content("text/plain", $emailBody);
     $mail = new SendGrid\Mail($from, $subject, $to, $content);
 
     $apiKey = getenv('SENDGRID_API_KEY');
