@@ -3,4 +3,8 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES5" />
   </component>
+  <component name="ProjectResources">
+    <resource url="https://fonts.googleapis.com/css?family=Pacifico" location="$PROJECT_DIR$" />
+    <resource url="https://fonts.googleapis.com/css?family=Roboto:400|Raleway:200,300,400,500,700,900" location="$PROJECT_DIR$" />
+  </component>
 </project>

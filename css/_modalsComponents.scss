@@ -1,0 +1,143 @@
+// Modal
+
+.modal-content {
+  border-radius: 0;
+}
+
+.modal-header .close {
+  font-size: 30px;
+}
+
+.modal-title {
+  text-transform: uppercase;
+  font-size: 23px;
+  color: black;
+}
+
+.modal-body {
+  padding: 0;
+
+  p {
+    margin: 30px 20px;
+    color: #2D2D2D;
+  }
+}
+
+.modal-works {
+  font-size: 11px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: $pureWhite;
+  margin: 25px 20px;
+
+  span {
+    background-color: darkgray;
+    margin-right: 15px;
+    padding: 5px 10px;
+  }
+}
+
+// Components
+
+.btn-xl:hover, .btn-xl:focus, .btn-xl:active, .btn-xl.active, .open .dropdown-toggle.btn-xl {
+  color: $pureWhite;
+  background-color: $selectColor;
+  border-color: $selectColor;
+}
+
+.btn:hover, .btn:focus, .btn:active, .btn.active, .open, .dropdown-toggle.btn {
+  color: $pureWhite;
+  background-color: $selectColor;
+  border-color: $selectColor;
+}
+
+.btn {
+  display: inline-block;
+  padding: 8px 20px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.btn-xl {
+  color: $pureWhite;
+  background-color: #726FB9;
+  border-color: #726FB9;
+  font-family: "Robot", sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 3px;
+  font-size: 18px;
+  padding: 20px 40px;
+}
+
+// Back to top button
+
+#back-top {
+  position: fixed;
+  z-index: 1000;
+  bottom: 40px;
+  right: 50px;
+
+  a {
+    width: 60px;
+    height: 60px;
+    display: block;
+    text-align: center;
+    font: 11px/100% Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: $pureWhite;
+    background: #A9A9B1;
+
+    // background color transition
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    transition: 1s;
+
+  }
+
+  a:hover {
+    background: $selectColor;
+  }
+
+  i {
+    // arrow icon (span tag)
+    margin-top: 15px;
+    font-size: 28px;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  #back-top {
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+
+    a {
+      width: 40px;
+      height: 40px;
+    }
+
+    i {
+      margin-top: 7px;
+      font-size: 20px;
+    }
+  }
+
+}
