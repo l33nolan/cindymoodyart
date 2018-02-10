@@ -26,7 +26,7 @@ $.getJSON( "js/images.json", function(data){
 
 // HTML template for image and info overlay,  to be added to the page with data returned from loop
         var $imageOverlay =
-            '<div class="col-md-6 col-0-gutter">\n' +
+            '<div class="col-md-4 col-0-gutter">\n' +
             '<div class="ot-portfolio-item">\n' +
             '<figure class="effect-border">\n' +
             '<img src="' + imagesData[i].paintingURL + '" class="img-responsive" />\n' +

@@ -241,9 +241,9 @@
     <div class="container text-center">
         <div class="footer-container row">
             <div class="social col-md-4 col-sm-12">
-                <a href=""><img src="img/facebook.svg" alt="facebook link"></a>
-                <a href=""><img src="img/twitter.svg" alt="twitter link"></a>
-                <a href=""><img src="img/instagram.svg" alt="insta link"></a>
+                <a href="https://www.facebook.com/cindy.moody.52" target="_blank"><img src="img/facebook.svg" alt="facebook link"></a>
+                <a href="https://twitter.com/georgiegirl588" target="_blank"><img src="img/twitter.svg" alt="twitter link"></a>
+                <a href="https://www.instagram.com/cindydoll69/?hl=en" target="_blank"><img src="img/instagram.svg" alt="insta link"></a>
             </div>
 
             <div class="copy col-md-4 col-sm-6">
@@ -252,8 +252,8 @@
             </div>
 
             <div class=" links col-md-4 col-sm-6">
-                    <p><a href="#">Privacy Policy</a></p>
-                    <p><a href="#">Terms Of Use</a></p>
+                    <p><a href="privacy.html" target="_blank">Privacy Policy</a></p>
+                    <p><a href="tos.html" target="_blank">Terms Of Use</a></p>
                     <p><a href="#">Site Designer</a></p>
 
             </div>

@@ -52,6 +52,14 @@
   border-color: $selectColor;
 }
 
+// vendor prefixes for user-select property
+@mixin userSelect($value) {
+  -webkit-user-select: $value;
+  -moz-user-select: $value;
+  -ms-user-select: $value;
+  user-select: $value;
+}
+
 .btn {
   display: inline-block;
   padding: 8px 20px;
@@ -65,20 +73,17 @@
   -ms-touch-action: manipulation;
   touch-action: manipulation;
   cursor: pointer;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
   background-image: none;
   border: 1px solid transparent;
   border-radius: 4px;
+  @include userSelect(none);
 }
 
 .btn-xl {
   color: $pureWhite;
   background-color: #726FB9;
   border-color: #726FB9;
-  font-family: "Robot", sans-serif;
+  font-family: "Roboto", sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   border-radius: 3px;

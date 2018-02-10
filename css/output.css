@@ -107,12 +107,6 @@ p {
   letter-spacing: 0.2px;
   color: #faf9ff; }
 
-a:hover, a:focus, a:active, a.active {
-  color: #fed136; }
-
-a, a:hover, a:focus, a:active, a.active {
-  outline: 0; }
-
 ::selection {
   text-shadow: none;
   background: #fed136; }
@@ -383,6 +377,13 @@ footer {
     font-weight: 500;
     letter-spacing: 1.6px; }
 
+a:visited, a:link {
+  color: #B7B7B7;
+  text-decoration: none; }
+a:hover {
+  color: #fed136;
+  text-decoration: none; }
+
 .footer-container {
   padding: 10px 0; }
 
@@ -397,7 +398,10 @@ footer {
   .social a img {
     width: 50px;
     height: 50px;
-    padding: 10px; }
+    padding: 10px;
+    transition: all 0.4s ease-in-out; }
+  .social a img:hover {
+    transform: scale(1.5) rotate(30deg); }
 
 @media only screen and (max-width: 812px) {
   .social, .links {
@@ -454,19 +458,19 @@ footer {
   -ms-touch-action: manipulation;
   touch-action: manipulation;
   cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
-  user-select: none;
-  background-image: none;
-  border: 1px solid transparent;
-  border-radius: 4px; }
+  user-select: none; }
 
 .btn-xl {
   color: #fff;
   background-color: #726FB9;
   border-color: #726FB9;
-  font-family: "Robot", sans-serif;
+  font-family: "Roboto", sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   border-radius: 3px;
