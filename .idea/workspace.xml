@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea54b83c-dd1e-4f52-96b9-e3cd777cd1a2" name="Default" comment="css fixes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/img/beach.jpg" afterPath="$PROJECT_DIR$/img/beach.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/bg.jpg" afterPath="$PROJECT_DIR$/img/bg.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/cindy.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/diving.jpg" afterPath="$PROJECT_DIR$/img/diving.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/face.jpg" afterPath="$PROJECT_DIR$/img/face.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/frida.jpg" afterPath="$PROJECT_DIR$/img/frida.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/girl.jpg" afterPath="$PROJECT_DIR$/img/girl.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/indianboys.jpg" afterPath="$PROJECT_DIR$/img/indianboys.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/indiangirl.jpg" afterPath="$PROJECT_DIR$/img/indiangirl.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/indianwoman.jpg" afterPath="$PROJECT_DIR$/img/indianwoman.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/ladies.jpg" afterPath="$PROJECT_DIR$/img/ladies.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/lee.jpg" afterPath="$PROJECT_DIR$/img/lee.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/park.jpg" afterPath="$PROJECT_DIR$/img/park.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/rachel.jpg" afterPath="$PROJECT_DIR$/img/rachel.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/saltburn.jpg" afterPath="$PROJECT_DIR$/img/saltburn.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/sealady.jpg" afterPath="$PROJECT_DIR$/img/sealady.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/staithes.jpg" afterPath="$PROJECT_DIR$/img/staithes.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/swimming.jpg" afterPath="$PROJECT_DIR$/img/swimming.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/violinman.jpg" afterPath="$PROJECT_DIR$/img/violinman.jpg" />
-    </list>
+    <list default="true" id="ea54b83c-dd1e-4f52-96b9-e3cd777cd1a2" name="Default" comment="css fixes" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -277,12 +256,12 @@
       <workItem from="1518136893629" duration="6000" />
       <workItem from="1518189980653" duration="697000" />
       <workItem from="1518282930801" duration="7769000" />
-      <workItem from="1518363663653" duration="538000" />
+      <workItem from="1518363663653" duration="661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126484000" />
+    <option name="totallyTimeSpent" value="126607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
