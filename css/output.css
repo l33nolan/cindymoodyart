@@ -435,47 +435,25 @@ a:hover {
     margin-right: 15px;
     padding: 5px 10px; }
 
-.btn-xl:hover, .btn-xl:focus, .btn-xl:active, .btn-xl.active, .open .dropdown-toggle.btn-xl {
-  color: #fff;
-  background-color: #fed136;
-  border-color: #fed136; }
-
-.btn:hover, .btn:focus, .btn:active, .btn.active, .open, .dropdown-toggle.btn {
-  color: #fff;
-  background-color: #fed136;
-  border-color: #fed136; }
-
 .btn {
   display: inline-block;
   padding: 8px 20px;
   margin-bottom: 0;
   font-size: 14px;
   font-weight: 400;
-  line-height: 1.42857143;
+  line-height: 1.4;
   text-align: center;
   white-space: nowrap;
   vertical-align: middle;
-  -ms-touch-action: manipulation;
-  touch-action: manipulation;
   cursor: pointer;
   background-image: none;
   border: 1px solid transparent;
-  border-radius: 4px;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none; }
+  border-radius: 4px; }
 
-.btn-xl {
+.btn:hover, .btn:focus, .btn:active {
   color: #fff;
-  background-color: #726FB9;
-  border-color: #726FB9;
-  font-family: "Roboto", sans-serif;
-  text-transform: uppercase;
-  font-weight: 700;
-  border-radius: 3px;
-  font-size: 18px;
-  padding: 20px 40px; }
+  background-color: #fed136;
+  border-color: #fed136; }
 
 #back-top {
   position: fixed;
