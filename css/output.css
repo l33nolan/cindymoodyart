@@ -350,6 +350,9 @@ form {
   width: 60%;
   margin: 15px auto; }
 
+.form-control {
+  font-size: 16px; }
+
 .form-group {
   margin-bottom: 25px; }
   .form-group input, .form-group textarea {
