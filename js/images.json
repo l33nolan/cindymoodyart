@@ -1,7 +1,8 @@
 
 [
   {
-    "paintingURL": "img/girl.jpg",
+    "paintingURL": "img/girl_s.jpg",
+    "lg_paintingURL": "img/girl.jpg",
     "paintingTitle": "#Disengaged",
     "paintingMedia": "Board",
     "paintingType": "Acrylic",
@@ -9,7 +10,8 @@
     "paintingComments": "A depiction of the current obsession with our electronic devices."
   },
   {
-    "paintingURL": "img/swimming.jpg",
+    "paintingURL": "img/swimming_s.jpg",
+    "lg_paintingURL": "img/swimming.jpg",
     "paintingTitle": "Submerge",
     "paintingMedia": "Canvas",
     "paintingType": "Acrylic",
@@ -17,7 +19,8 @@
     "paintingComments": "A study of reflection and the atmospheric serenity of being under water."
   },
   {
-    "paintingURL": "img/staithes.jpg",
+    "paintingURL": "img/staithes_s.jpg",
+    "lg_paintingURL": "img/staithes.jpg",
     "paintingTitle": "Staithes 2015",
     "paintingMedia": "Canvas",
     "paintingType": "Acrylic",
@@ -25,7 +28,8 @@
     "paintingComments": "A landscape painting of the beautiful Staithes harbour, one of my favourite places"
   },
   {
-    "paintingURL": "img/ladies.jpg",
+    "paintingURL": "img/ladies_s.jpg",
+    "lg_paintingURL": "img/ladies.jpg",
     "paintingTitle": "Nederlandes Meisjes",
     "paintingMedia": "Canvas",
     "paintingType": "Acrylic",
@@ -33,7 +37,8 @@
     "paintingComments": "A simple portrait of my Mother and Auntie...who are Dutch (hence the title!)."
   },
   {
-    "paintingURL": "img/park.jpg",
+    "paintingURL": "img/park_s.jpg",
+    "lg_paintingURL": "img/park.jpg",
     "paintingTitle": "Family Stroll",
     "paintingMedia": "Canvas",
     "paintingType": "Acrylic",
@@ -41,7 +46,8 @@
     "paintingComments": "Capturing a beautiful English autumn morning, with a young family strolling through a park."
   },
   {
-    "paintingURL": "img/saltburn.jpg",
+    "paintingURL": "img/saltburn_s.jpg",
+    "lg_paintingURL": "img/saltburn.jpg",
     "paintingTitle": "Break",
     "paintingMedia": "Canvas",
     "paintingType": "Acrylic",
@@ -49,7 +55,8 @@
     "paintingComments": "More landscapes from the North East! Saltburn pier, another beauty spot of the region."
   },
   {
-    "paintingURL": "img/face.jpg",
+    "paintingURL": "img/face_s.jpg",
+    "lg_paintingURL": "img/face.jpg",
     "paintingTitle": "Attitudes Of Colour",
     "paintingMedia": "Ply",
     "paintingType": "Acrylic",
@@ -57,14 +64,16 @@
     "paintingComments": "A Pop Art inspired study of colour."
   },
   {
-    "paintingURL": "img/lee.jpg",
+    "paintingURL": "img/lee_s.jpg",
+    "lg_paintingURL": "img/lee.jpg",
     "paintingTitle": "Lee",
     "paintingMedia": "Canvas",
     "paintingType": "Acrylic",
     "paintingSize": "19.5 inches x 19.5 inches",
     "paintingComments": "A portrait of my boyfriend, taken from a photograph."
   }, {
-  "paintingURL": "img/diving.jpg",
+  "paintingURL": "img/diving_s.jpg",
+  "lg_paintingURL": "img/diving.jpg",
   "paintingTitle": "Ascent",
   "paintingMedia": "Canvas",
   "paintingType": "Acrylic",
@@ -72,7 +81,8 @@
   "paintingComments": "Another underwater study, inspired by the works of Bill Bate."
 },
   {
-    "paintingURL": "img/beach.jpg",
+    "paintingURL": "img/beach_s.jpg",
+    "lg_paintingURL": "img/beach.jpg",
     "paintingTitle": "Namaste",
     "paintingMedia": "Canvas",
     "paintingType": "Acrylic",
@@ -80,7 +90,8 @@
     "paintingComments": "Capturing the peace and tranquility of the beach."
   },
   {
-    "paintingURL": "img/sealady.jpg",
+    "paintingURL": "img/sealady_s.jpg",
+    "lg_paintingURL": "img/sealady.jpg",
     "paintingTitle": "Aqua Blue",
     "paintingMedia": "Canvas",
     "paintingType": "Acrylic",
@@ -88,7 +99,8 @@
     "paintingComments": "Inspired again by Bill Bate."
   },
   {
-    "paintingURL": "img/violinman.jpg",
+    "paintingURL": "img/violinman_s.jpg",
+    "lg_paintingURL": "img/violinman.jpg",
     "paintingTitle": "Nightfall",
     "paintingMedia": "Canvas",
     "paintingType": "Acrylic",
@@ -96,7 +108,8 @@
     "paintingComments": "A lonely musician, taking his inspiration from the stars and the solitude of night."
   },
   {
-    "paintingURL": "img/indiangirl.jpg",
+    "paintingURL": "img/indiangirl_s.jpg",
+    "lg_paintingURL": "img/indiangirl.jpg",
     "paintingTitle": "Transition",
     "paintingMedia": "Canvas",
     "paintingType": "Acrylic",
@@ -104,7 +117,8 @@
     "paintingComments": "I love to see old doorways in other countries, and the mystery of the woman entering it."
   },
   {
-    "paintingURL": "img/indianboys.jpg",
+    "paintingURL": "img/indianboys_s.jpg",
+    "lg_paintingURL": "img/indianboys.jpg",
     "paintingTitle": "Backpacker's Tales",
     "paintingMedia": "Canvas",
     "paintingType": "Acrylic",
@@ -112,7 +126,8 @@
     "paintingComments": "A friend once visited India, this montage depicts some of the sights and colours reflecting his tales."
   },
   {
-    "paintingURL": "img/indianwoman.jpg",
+    "paintingURL": "img/indianwoman_s.jpg",
+    "lg_paintingURL": "img/indianwoman.jpg",
     "paintingTitle": "Journey",
     "paintingMedia": "Ply",
     "paintingType": "Acrylic",

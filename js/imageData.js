@@ -53,7 +53,7 @@ $.getJSON( "js/images.json", function(data){
             '<h4 class="modal-title" id="Modal-label-' + i + '">' + imagesData[i].paintingTitle + '</h4>\n' +
             '</div>\n' +
             '<div class="modal-body">\n' +
-            '<img src="' + imagesData[i].paintingURL + '" alt="' + imagesData[i].paintingTitle + '" class="img-responsive" />\n' +
+            '<img src="' + imagesData[i].lg_paintingURL + '" alt="' + imagesData[i].paintingTitle + '" class="img-responsive" />\n' +
             '<div class="modal-works"><span>' + imagesData[i].paintingMedia + '</span><span>' + imagesData[i].paintingType +
             '</span><span>' + imagesData[i].paintingSize + '</span></div>\n' +
             '<p>' + imagesData[i].paintingComments+ '</p>\n' +
