@@ -19,10 +19,6 @@
 
 <body id="page-top">
 
-<style>
-    @import url(https://fonts.googleapis.com/css?family=Roboto:400|Raleway:200,300,400,500,700,900);
-    @import url(https://fonts.googleapis.com/css?family=Pacifico);
-</style>
 
 <div class="wrapper">
 <!-- Navigation -->
@@ -268,13 +264,12 @@
 </footer>
 </div>
 
-<!-- Bootstrap core JavaScript
-    ================================================== -->
+
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script src="js/SmoothScroll.js"></script>
-<script src="js/theme-scripts.js"></script>
-<script src="js/imageData.js"></script>
+<script async src="js/SmoothScroll.js"></script>
+<script async src="js/theme-scripts.js"></script>
+<script async src="js/imageData.js"></script>
 </body>
 </html>
