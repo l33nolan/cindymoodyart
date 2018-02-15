@@ -19,6 +19,11 @@
 
 <body id="page-top">
 
+<style>
+    @import url(https://fonts.googleapis.com/css?family=Roboto:400|Raleway:200,300,400,500,700,900);
+    @import url(https://fonts.googleapis.com/css?family=Pacifico);
+</style>
+
 <div class="wrapper">
 <!-- Navigation -->
 <nav class="navbar navbar-default">
