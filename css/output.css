@@ -85,7 +85,7 @@ html, body {
   max-width: 1440px;
   margin: 0 auto;
   font-family: "Raleway", Sans-serif, sans-serif;
-  background: linear-gradient(rgba(80, 80, 82, 0.7), rgba(80, 80, 82, 0.7)), url(../img/bg.jpg) no-repeat center center fixed;
+  background: linear-gradient(rgba(80, 80, 82, 0.7), rgba(80, 80, 82, 0.7)), url(https://d2az2bru0fnvca.cloudfront.net/bg.jpg) no-repeat center center fixed;
   background-size: cover; }
 
 h1,
@@ -169,7 +169,7 @@ section {
 .intro {
   width: 100%;
   height: 700px;
-  background: black url(../img/cindyHead.jpg) no-repeat center center scroll;
+  background: black url(https://d2az2bru0fnvca.cloudfront.net/cindyHead.jpg) no-repeat center center scroll;
   position: relative; }
   .intro .text-center {
     position: absolute;
