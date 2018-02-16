@@ -20,7 +20,7 @@ var imagesData = [];
     // 2. the loop will iterate through the imagesData array and add the html to the page
     // 3. note that the loop is INSIDE the getJSON function so that imagesData contains the JSON array BEFORE the loop executes
 
-$.getJSON( "https://d2az2bru0fnvca.cloudfront.net/images.json", function(data){
+$.getJSON("https://d2az2bru0fnvca.cloudfront.net/images.json", function(data){
     imagesData = data;
     for(var i=0; i < imagesData.length; i++) {
 
