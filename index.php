@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
     <!-- Custom styles -->
-    <link href="css/output.css" rel="stylesheet">
+    <link href="https://d2az2bru0fnvca.cloudfront.net/output.css" rel="stylesheet">
 </head>
 
 <body id="page-top">
@@ -235,7 +235,7 @@
     ?>
 
 <p id="back-top">
-    <a href="#top"><i class="fa fa-angle-up"></i></a>
+    <a href="#page-top"><i class="fa fa-angle-up"></i></a>
 </p>
 
 <footer>
@@ -243,9 +243,9 @@
     <div class="container text-center">
         <div class="footer-container row">
             <div class="social col-md-4 col-sm-12">
-                <a href="https://www.facebook.com/cindy.moody.52" target="_blank"><img src="img/facebook.svg" alt="facebook link"></a>
-                <a href="https://twitter.com/georgiegirl588" target="_blank"><img src="img/twitter.svg" alt="twitter link"></a>
-                <a href="https://www.instagram.com/cindydoll69/?hl=en" target="_blank"><img src="img/instagram.svg" alt="insta link"></a>
+                <a href="https://www.facebook.com/cindy.moody.52" target="_blank"><img src="https://d2az2bru0fnvca.cloudfront.net/facebook.svg" alt="facebook link"></a>
+                <a href="https://twitter.com/georgiegirl588" target="_blank"><img src="https://d2az2bru0fnvca.cloudfront.net/twitter.svg" alt="twitter link"></a>
+                <a href="https://www.instagram.com/cindydoll69/?hl=en" target="_blank"><img src="https://d2az2bru0fnvca.cloudfront.net/instagram.svg" alt="insta link"></a>
             </div>
 
             <div class="copy col-md-4 col-sm-6">
@@ -269,8 +269,8 @@
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script async src="js/SmoothScroll.js"></script>
-<script async src="js/theme-scripts.js"></script>
-<script async src="js/imageData.js"></script>
+<script async src="https://d2az2bru0fnvca.cloudfront.net/SmoothScroll.js"></script>
+<script async src="https://d2az2bru0fnvca.cloudfront.net/theme-scripts.js"></script>
+<script async src="https://d2az2bru0fnvca.cloudfront.net/imageData.js"></script>
 </body>
 </html>

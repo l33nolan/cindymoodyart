@@ -14,7 +14,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <!-- Custom styles -->
-    <link href="css/output.css" rel="stylesheet">
+    <link href="https://d2az2bru0fnvca.cloudfront.net/output.css" rel="stylesheet">
 </head>
 
 <body id="page-top">
