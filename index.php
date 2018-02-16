@@ -178,7 +178,7 @@
             <div class="col-lg-4">
                 <div class="insp-item">
                     <div class="insp-image">
-                        <img src="img/frida.jpg" class="insp-img img-responsive" alt="author">
+                        <img src="https://d2az2bru0fnvca.cloudfront.net/frida.jpg" class="insp-img img-responsive" alt="author">
                     </div>
                     <div class="insp-text">
                         <h3>FRIDA KAHLO</h3>
@@ -194,7 +194,7 @@
             <div class="col-lg-4">
                 <div class="insp-item">
                     <div class="insp-image">
-                        <img src="img/bill.jpg" class="insp-img img-responsive" alt="author">
+                        <img src="https://d2az2bru0fnvca.cloudfront.net/bill.jpg" class="insp-img img-responsive" alt="author">
                     </div>
                     <div class="insp-text">
                         <h3>BILL BATE</h3>
@@ -212,7 +212,7 @@
             <div class="col-lg-4">
                 <div class="insp-item">
                     <div class="insp-image">
-                        <img src="img/rachel.jpg" class="insp-img img-responsive" alt="author">
+                        <img src="https://d2az2bru0fnvca.cloudfront.net/rachel.jpg" class="insp-img img-responsive" alt="author">
                     </div>
                     <div class="insp-text">
                         <h3>RACHEL WHITEREAD</h3>
