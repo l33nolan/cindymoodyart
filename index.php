@@ -242,7 +242,7 @@
 
     <div class="container text-center">
         <div class="footer-container row">
-            <div class="social col-md-4 col-sm-12">
+            <div class="social col-md-4 col-sm-12 col-xs-12">
                 <a href="https://www.facebook.com/cindy.moody.52" target="_blank"><img src="https://d2az2bru0fnvca.cloudfront.net/facebook.svg" alt="facebook link"></a>
                 <a href="https://twitter.com/georgiegirl588" target="_blank"><img src="https://d2az2bru0fnvca.cloudfront.net/twitter.svg" alt="twitter link"></a>
                 <a href="https://www.instagram.com/cindydoll69/?hl=en" target="_blank"><img src="https://d2az2bru0fnvca.cloudfront.net/instagram.svg" alt="insta link"></a>
@@ -272,6 +272,7 @@
 <script async src="https://d2az2bru0fnvca.cloudfront.net/SmoothScroll.js"></script>
 <script async src="https://d2az2bru0fnvca.cloudfront.net/theme-scripts.js"></script>
 <script async src="https://s3.eu-west-2.amazonaws.com/cindymoody/imageData.js"></script>
+
 
 </body>
 </html>
