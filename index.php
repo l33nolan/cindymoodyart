@@ -271,7 +271,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script async src="https://d2az2bru0fnvca.cloudfront.net/SmoothScroll.js"></script>
 <script async src="https://d2az2bru0fnvca.cloudfront.net/theme-scripts.js"></script>
-<script async src="https://d2az2bru0fnvca.cloudfront.net/imageData.js"></script>
+<script async src="https://s3.eu-west-2.amazonaws.com/cindymoody/imageData.js"></script>
 
 </body>
 </html>
