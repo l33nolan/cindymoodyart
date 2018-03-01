@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
     <!-- Custom styles -->
-    <link href="https://s3.eu-west-2.amazonaws.com/cindymoodyart/output.css" rel="stylesheet">
+    <link href="https://dgtqqzvj8521c.cloudfront.net/output.css" rel="stylesheet">
 </head>
 
 <body id="page-top">
@@ -266,9 +266,9 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script async src="https://s3.eu-west-2.amazonaws.com/cindymoodyart/SmoothScroll.js"></script>
-<script async src="https://s3.eu-west-2.amazonaws.com/cindymoodyart/theme-scripts.js"></script>
-<script async src="https://s3.eu-west-2.amazonaws.com/cindymoodyart/imageData.js"></script>
+<script async src="https://dgtqqzvj8521c.cloudfront.net/SmoothScroll.js"></script>
+<script async src="https://dgtqqzvj8521c.cloudfront.net/theme-scripts.js"></script>
+<script async src="https://dgtqqzvj8521c.cloudfront.net/imageData.js"></script>
 
 
 
