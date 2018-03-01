@@ -14,11 +14,10 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
     <!-- Custom styles -->
-    <link href="https://https://s3.eu-west-2.amazonaws.com/cindymoodyart/output.css" rel="stylesheet">
+    <link href="https://s3.eu-west-2.amazonaws.com/cindymoodyart/output.css" rel="stylesheet">
 </head>
 
 <body id="page-top">
-
 
 <div class="wrapper">
 <!-- Navigation -->
