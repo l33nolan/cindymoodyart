@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
     <!-- Custom styles -->
-    <link href="https://d2az2bru0fnvca.cloudfront.net/output.css" rel="stylesheet">
+    <link href="https://https://s3.eu-west-2.amazonaws.com/cindymoodyart/output.css" rel="stylesheet">
 </head>
 
 <body id="page-top">
@@ -178,7 +178,7 @@
             <div class="col-lg-4">
                 <div class="insp-item">
                     <div class="insp-image">
-                        <img src="https://d2az2bru0fnvca.cloudfront.net/frida.jpg" class="insp-img img-responsive" alt="author">
+                        <img src="https://dgtqqzvj8521c.cloudfront.net/frida.jpg" class="insp-img img-responsive" alt="author">
                     </div>
                     <div class="insp-text">
                         <h3>FRIDA KAHLO</h3>
@@ -194,7 +194,7 @@
             <div class="col-lg-4">
                 <div class="insp-item">
                     <div class="insp-image">
-                        <img src="https://d2az2bru0fnvca.cloudfront.net/bill.jpg" class="insp-img img-responsive" alt="author">
+                        <img src="https://dgtqqzvj8521c.cloudfront.net/bill.jpg" class="insp-img img-responsive" alt="author">
                     </div>
                     <div class="insp-text">
                         <h3>BILL BATE</h3>
@@ -212,7 +212,7 @@
             <div class="col-lg-4">
                 <div class="insp-item">
                     <div class="insp-image">
-                        <img src="https://d2az2bru0fnvca.cloudfront.net/rachel.jpg" class="insp-img img-responsive" alt="author">
+                        <img src="https://dgtqqzvj8521c.cloudfront.net/rachel.jpg" class="insp-img img-responsive" alt="author">
                     </div>
                     <div class="insp-text">
                         <h3>RACHEL WHITEREAD</h3>
@@ -243,9 +243,9 @@
     <div class="container text-center">
         <div class="footer-container row">
             <div class="social col-md-4 col-sm-12 col-xs-12">
-                <a href="https://www.facebook.com/cindy.moody.52" target="_blank"><img src="https://d2az2bru0fnvca.cloudfront.net/facebook.svg" alt="facebook link"></a>
-                <a href="https://twitter.com/georgiegirl588" target="_blank"><img src="https://d2az2bru0fnvca.cloudfront.net/twitter.svg" alt="twitter link"></a>
-                <a href="https://www.instagram.com/cindydoll69/?hl=en" target="_blank"><img src="https://d2az2bru0fnvca.cloudfront.net/instagram.svg" alt="insta link"></a>
+                <a href="https://www.facebook.com/cindy.moody.52" target="_blank"><img src="https://dgtqqzvj8521c.cloudfront.net/facebook.svg" alt="facebook link"></a>
+                <a href="https://twitter.com/georgiegirl588" target="_blank"><img src="https://dgtqqzvj8521c.cloudfront.net/twitter.svg" alt="twitter link"></a>
+                <a href="https://www.instagram.com/cindydoll69/?hl=en" target="_blank"><img src="https://dgtqqzvj8521c.cloudfront.net/instagram.svg" alt="insta link"></a>
             </div>
 
             <div class="copy col-md-4 col-sm-6">
@@ -265,13 +265,11 @@
 </footer>
 </div>
 
-
-<!-- Placed at the end of the document so the pages load faster -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script async src="https://d2az2bru0fnvca.cloudfront.net/SmoothScroll.js"></script>
-<script async src="https://d2az2bru0fnvca.cloudfront.net/theme-scripts.js"></script>
-<script async src="https://s3.eu-west-2.amazonaws.com/cindymoody/imageData.js"></script>
+<script async src="https://s3.eu-west-2.amazonaws.com/cindymoodyart/SmoothScroll.js"></script>
+<script async src="https://s3.eu-west-2.amazonaws.com/cindymoodyart/theme-scripts.js"></script>
+<script async src="https://s3.eu-west-2.amazonaws.com/cindymoodyart/imageData.js"></script>
 
 
 
