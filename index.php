@@ -9,10 +9,14 @@
     <meta name="author" content="Cindy Moody">
     <title>Cindy Moody - Hull Artist</title>
 
+    <!--Google Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,700,900|Roboto" rel="stylesheet">
+
     <!-- Bootstrap core CSS -->
     <link href="https://dgtqqzvj8521c.cloudfront.net/bootstrap.min.css" rel="stylesheet">
+
     <!-- Custom styles -->
-    <link href="https://dgtqqzvj8521c.cloudfront.net/output.css" rel="stylesheet">
+    <link href="ttps://dgtqqzvj8521c.cloudfront.net/output_v2.css" rel="stylesheet">
 
     <!--FontAwesome-->
     <script defer src="https://dgtqqzvj8521c.cloudfront.net/fa-solid.min.js"></script>
