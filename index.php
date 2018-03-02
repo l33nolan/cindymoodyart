@@ -30,7 +30,7 @@
 <!-- Navigation -->
 <nav class="navbar navbar-default">
     <div class="container">
-        <div class="navbar-brand">Cindy Moody</div>
+        <div class="navbar-brand">CINDY MOODY</div>
 
         <!-- Brand and toggle grouped for mobile display -->
         <div class="navbar-header page-scroll">
@@ -241,7 +241,7 @@
     ?>
 
 <p id="back-top">
-    <a href="#page-top"><i class="fas fa-angle-up fa-4x"></i></a>
+    <a href="#page-top" style="display: flex; justify-content: center; align-items: center"><i class="fas fa-angle-up fa-3x"></i></a>
 </p>
 
 <footer>
