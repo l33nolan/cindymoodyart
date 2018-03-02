@@ -11,11 +11,13 @@
 
     <!-- Bootstrap core CSS -->
     <link href="https://dgtqqzvj8521c.cloudfront.net/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles -->
+    <link href="https://dgtqqzvj8521c.cloudfront.net/output.css" rel="stylesheet">
+
+    <!--FontAwesome-->
     <script defer src="https://dgtqqzvj8521c.cloudfront.net/fa-solid.min.js"></script>
     <script defer src="https://dgtqqzvj8521c.cloudfront.net/fontawesome.min.js"></script>
 
-    <!-- Custom styles -->
-    <link href="https://dgtqqzvj8521c.cloudfront.net/output.css" rel="stylesheet">
 </head>
 
 <body id="page-top">
