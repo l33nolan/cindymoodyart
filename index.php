@@ -10,8 +10,9 @@
     <title>Cindy Moody - Hull Artist</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link href="https://dgtqqzvj8521c.cloudfront.net/bootstrap.min.css" rel="stylesheet">
+    <script defer src="https://dgtqqzvj8521c.cloudfront.net/fa-solid.min.js"></script>
+    <script defer src="https://dgtqqzvj8521c.cloudfront.net/fontawesome.min.js"></script>
 
     <!-- Custom styles -->
     <link href="https://dgtqqzvj8521c.cloudfront.net/output.css" rel="stylesheet">
@@ -234,7 +235,7 @@
     ?>
 
 <p id="back-top">
-    <a href="#page-top"><i class="fa fa-angle-up"></i></a>
+    <a href="#page-top"><i class="fas fa-angle-up fa-4x"></i></a>
 </p>
 
 <footer>
@@ -264,8 +265,8 @@
 </footer>
 </div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://dgtqqzvj8521c.cloudfront.net/jquery-1.11.3.min.js"></script>
+<script src="https://dgtqqzvj8521c.cloudfront.net/bootstrap.min.js"></script>
 <script async src="https://dgtqqzvj8521c.cloudfront.net/SmoothScroll.js"></script>
 <script async src="https://dgtqqzvj8521c.cloudfront.net/theme-scripts.js"></script>
 <script async src="https://dgtqqzvj8521c.cloudfront.net/imageData.js"></script>
