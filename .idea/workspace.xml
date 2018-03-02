@@ -22,7 +22,7 @@
             <state relative-caret-position="285">
               <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
-                <element signature="e#11054#11060#0#HTML" expanded="true" />
+                <element signature="e#11055#11061#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -335,12 +335,12 @@
       <workItem from="1519911528808" duration="798000" />
       <workItem from="1519917098312" duration="913000" />
       <workItem from="1519947207209" duration="3164000" />
-      <workItem from="1520001397479" duration="992000" />
+      <workItem from="1520001397479" duration="1116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156866000" />
+    <option name="totallyTimeSpent" value="156990000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -584,7 +584,7 @@
         <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="e#11054#11060#0#HTML" expanded="true" />
+            <element signature="e#11055#11061#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
