@@ -49,14 +49,6 @@
   "paintingComments": "Inspired by the Mexican 'Day Of The Dead' festival. My first venture into mixed media, using buttons for the tree."
   },
   {
-    "paintingURL": "https://dgtqqzvj8521c.cloudfront.net/saltburn.jpg",
-    "paintingTitle": "Break",
-    "paintingMedia": "Canvas",
-    "paintingType": "Acrylic",
-    "paintingSize": "28 inches x 11.5 inches",
-    "paintingComments": "More landscapes from the North East! Saltburn pier, another beauty spot of the region."
-  },
-  {
     "paintingURL": "https://dgtqqzvj8521c.cloudfront.net/face.jpg",
     "paintingTitle": "Attitudes Of Colour",
     "paintingMedia": "Ply",
@@ -71,7 +63,16 @@
     "paintingType": "Acrylic",
     "paintingSize": "19.5 inches x 19.5 inches",
     "paintingComments": "A portrait of my boyfriend, taken from a photograph."
-  }, {
+  },
+  {
+    "paintingURL": "https://dgtqqzvj8521c.cloudfront.net/cindyself.jpg",
+    "paintingTitle": "Prizeworthy",
+    "paintingMedia": "Canvas",
+    "paintingType": "Acrylic",
+    "paintingSize": "19.5 inches x 19.5 inches",
+    "paintingComments": "A collage incorporating a self-portrait with contemplative cuttings from a gallery press release."
+  },
+  {
   "paintingURL": "https://dgtqqzvj8521c.cloudfront.net/diving.jpg",
   "paintingTitle": "Ascent",
   "paintingMedia": "Canvas",
