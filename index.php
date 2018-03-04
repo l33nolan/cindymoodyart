@@ -22,6 +22,16 @@
     <script defer src="https://dgtqqzvj8521c.cloudfront.net/fa-solid.min.js"></script>
     <script defer src="https://dgtqqzvj8521c.cloudfront.net/fontawesome.min.js"></script>
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115065871-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-115065871-1');
+    </script>
+
 </head>
 
 <body id="page-top">
