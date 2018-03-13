@@ -88,8 +88,10 @@ $.getJSON("./images.json", function (data) {
 
 if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
 
-    $('.paintingDetail').append($dismissMessage);
-    
+    $(document).ready(function() {
+        $('.paintingDetail').append($dismissMessage);
+    });
+
     $(function () {
         $('.img-place').on('click', '.effect-border', function () {
             $(this).toggleClass('trans');
