@@ -79,6 +79,8 @@ $.getJSON("./images.json", function (data) {
 
     if ($height > 600 && $width > 768) {
         $('.paintingDetail').append($clickMessage);
+    } else if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+        $('.paintingDetail').append($dismissMessage);
     }
 
 });
@@ -87,10 +89,6 @@ $.getJSON("./images.json", function (data) {
 
 
 if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-
-    $(document).ready(function() {
-        $('.paintingDetail').append($dismissMessage);
-    });
 
     $(function () {
         $('.img-place').on('click', '.effect-border', function () {
