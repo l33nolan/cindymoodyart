@@ -94,11 +94,11 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
         });
     });
 
-    // $(function () {
-    //     $('.img-place').on('click', '.effect-border', function () {
-    //         $(this).toggleClass('trans');
-    //     });
-    // });
+    $(function () {
+        $('.img-place').on('click', '.effect-border', function () {
+            $(this).toggleClass('trans').parent().siblings().children('.effect-border').removeClass('trans');
+        });
+    });
 
 } else {
 
