@@ -8,7 +8,7 @@ var $width = $(window).width();
 
 // message to add later to image overlays on larger screens, to instruct user - this is where modal window is enabled
 var $clickMessage = '<p class="clickMore" style="color: #fec503; font-weight: 700">Click for more!</p>';
-var $dismissMessage = '<p style="font-size: 0.9rem">[Tap again to hide details]</p>';
+var $dismissMessage = '<p style="margin-top: -10px; font-size: 0.9rem">[Tap again to hide details]</p>';
 
 
 // variable to hold images array
