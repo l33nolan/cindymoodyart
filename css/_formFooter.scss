@@ -59,16 +59,13 @@ a {
   padding: 10px 0;
 }
 
-.copy, .links {
-  padding: 5px 0;
+.copy {
+  padding-bottom: 20px;
 }
 
-.links {
-  text-align: center;
-}
 
 .social {
-  text-align: left;
+    padding-bottom: 20px;
   a img {
     width: 50px;
     height: 50px;
@@ -76,13 +73,14 @@ a {
     transition: all 0.4s ease-in-out;
 
   }
-
+  @media (min-width: 769px) {
   a img:hover {
     transform: scale(1.5) rotate(30deg);
   }
+  }
 }
 
-@media only screen and (max-width: 812px) {
+@media (max-width: 769px) {
   .social, .links {
     text-align: center;
   }

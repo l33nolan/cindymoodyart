@@ -397,23 +397,21 @@ a:hover {
 .footer-container {
   padding: 10px 0; }
 
-.copy, .links {
-  padding: 5px 0; }
-
-.links {
-  text-align: center; }
+.copy {
+  padding-bottom: 20px; }
 
 .social {
-  text-align: left; }
+  padding-bottom: 20px; }
   .social a img {
     width: 50px;
     height: 50px;
     padding: 10px;
     transition: all 0.4s ease-in-out; }
-  .social a img:hover {
-    transform: scale(1.5) rotate(30deg); }
+  @media (min-width: 769px) {
+    .social a img:hover {
+      transform: scale(1.5) rotate(30deg); } }
 
-@media only screen and (max-width: 812px) {
+@media (max-width: 769px) {
   .social, .links {
     text-align: center; } }
 .modal-content {
@@ -499,4 +497,4 @@ a:hover {
       margin-top: 7px;
       font-size: 20px; } }
 
-/*# sourceMappingURL=output_v4.css.map */
+/*# sourceMappingURL=output_v5.css.map */
