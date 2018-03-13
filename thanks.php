@@ -11,10 +11,9 @@
     <meta name="author" content="Cindy Moody">
     <title>Cindy Moody - Hull Artist</title>
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link href="https://dgtqqzvj8521c.cloudfront.net/bootstrap.min.css" rel="stylesheet">
     <!-- Custom styles -->
-    <link href="https://d2az2bru0fnvca.cloudfront.net/output.css" rel="stylesheet">
+    <link href="https://dgtqqzvj8521c.cloudfront.net/output_v4.css" rel="stylesheet">
 </head>
 
 <body id="page-top">
@@ -75,7 +74,7 @@
 <!-- Bootstrap core JavaScript
     ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://dgtqqzvj8521c.cloudfront.net/jquery-1.11.3.min.js"></script>
 <!--JS to redirect home from thanks page (in 3 seconds)-->
 <script>
     $(document).ready(function () {

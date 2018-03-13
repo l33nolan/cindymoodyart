@@ -16,7 +16,7 @@
     <link href="https://dgtqqzvj8521c.cloudfront.net/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles -->
-    <link href="css/output_v3.css" rel="stylesheet">
+    <link href="https://dgtqqzvj8521c.cloudfront.net/output_v4.css" rel="stylesheet">
 
     <!--FontAwesome-->
     <script defer src="https://dgtqqzvj8521c.cloudfront.net/fa-solid.min.js"></script>
@@ -285,7 +285,7 @@
 <script defer src="https://dgtqqzvj8521c.cloudfront.net/bootstrap.min.js"></script>
 <script defer src="https://dgtqqzvj8521c.cloudfront.net/SmoothScroll.js"></script>
 <script defer src="https://dgtqqzvj8521c.cloudfront.net/theme-scripts.js"></script>
-<script defer src="js/imageData.js"></script>
+<script defer src="https://dgtqqzvj8521c.cloudfront.net/imageData_v2.js"></script>
 
 
 
