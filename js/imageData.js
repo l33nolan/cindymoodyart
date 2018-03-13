@@ -8,6 +8,7 @@ var $width = $(window).width();
 
 // message to add later to image overlays on larger screens, to instruct user - this is where modal window is enabled
 var $clickMessage = '<p class="clickMore" style="color: #fec503; font-weight: 700">Click for more!</p>';
+var $dismissMessage = '<p style="font-size: 0.9rem">[Tap again to hide details]</p>';
 
 
 // variable to hold images array
@@ -78,6 +79,8 @@ $.getJSON("./images.json", function (data) {
 
     if ($height > 600 && $width > 768) {
         $('.paintingDetail').append($clickMessage);
+    } else {
+        $('.paintingDetail').append($dismissMessage);
     }
 
 
@@ -90,7 +93,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
 
     $(function () {
         $('.img-place').on('click', '.effect-border', function () {
-            $(this).toggleClass('trans').prev().removeClass('trans');
+            $(this).toggleClass('trans');
         });
     });
 
