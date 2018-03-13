@@ -39,11 +39,11 @@
       <file leaf-file-name="imageData.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/imageData.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+            <state relative-caret-position="475">
+              <caret line="98" column="67" lean-forward="true" selection-start-line="98" selection-start-column="67" selection-end-line="98" selection-end-column="67" />
               <folding>
-                <marker date="1520952411996" expanded="true" signature="588:620" ph="..." />
-                <marker date="1520952411996" expanded="true" signature="2555:2562" ph="×" />
+                <marker date="1520952564423" expanded="true" signature="588:620" ph="..." />
+                <marker date="1520952564423" expanded="true" signature="2555:2562" ph="×" />
               </folding>
             </state>
           </provider>
@@ -362,12 +362,12 @@
       <workItem from="1520197189319" duration="2081000" />
       <workItem from="1520356317584" duration="717000" />
       <workItem from="1520855849717" duration="533000" />
-      <workItem from="1520947071546" duration="4518000" />
+      <workItem from="1520947071546" duration="4684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167270000" />
+    <option name="totallyTimeSpent" value="167436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -608,11 +608,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/imageData.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        <state relative-caret-position="475">
+          <caret line="98" column="67" lean-forward="true" selection-start-line="98" selection-start-column="67" selection-end-line="98" selection-end-column="67" />
           <folding>
-            <marker date="1520952411996" expanded="true" signature="588:620" ph="..." />
-            <marker date="1520952411996" expanded="true" signature="2555:2562" ph="×" />
+            <marker date="1520952564423" expanded="true" signature="588:620" ph="..." />
+            <marker date="1520952564423" expanded="true" signature="2555:2562" ph="×" />
           </folding>
         </state>
       </provider>
