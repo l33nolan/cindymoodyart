@@ -90,13 +90,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
 
     $(function () {
         $('.img-place').on('click', '.effect-border', function () {
-            $(this).toggleClass('trans');
-        });
-    });
-
-    $(function () {
-        $('.img-place').on('click', '.effect-border', function () {
-            $(this).toggleClass('trans').parents('.holder').siblings().children('.ot-portfolio-item').children('.effect-border').removeClass('trans');
+            $(this).toggleClass('trans').prev().removeClass('trans');
         });
     });
 
